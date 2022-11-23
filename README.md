@@ -1,1 +1,1 @@
-# programming_ Practice
+# django tutorial
